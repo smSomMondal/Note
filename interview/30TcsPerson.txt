@@ -1,0 +1,78 @@
+Here’s a **clear, interview-ready breakdown** of important people, partners, and services of Tata Consultancy Services 👇
+
+---
+
+# 👨‍💼 Important Leaders in TCS
+
+### Key Members:
+
+* **K. Krithivasan** – Current CEO & Managing Director
+* **Natarajan Chandrasekaran** – Chairman of Tata Group (parent organization)
+* **Rajesh Gopinathan** – Played a big role in TCS growth
+
+👉 In interviews, mentioning 1–2 names is enough (especially CEO).
+
+---
+
+# 🤝 Major Partners of TCS
+
+TCS collaborates with top global tech companies:
+
+* **Amazon Web Services (AWS)**
+* **Microsoft (Azure, enterprise solutions)**
+* **Google Cloud**
+* **SAP**
+* **Oracle Corporation**
+
+👉 These partnerships help TCS deliver advanced cloud and enterprise solutions.
+
+---
+
+# 💼 Services Provided by TCS
+
+### Main Services:
+
+### 1. IT Services & Software Development
+
+* Application development
+* System integration
+* Maintenance & support
+
+### 2. Cloud Services
+
+* Cloud migration
+* Cloud management (AWS, Azure, Google Cloud)
+
+### 3. Consulting Services
+
+* Business strategy
+* Digital transformation
+
+### 4. AI & Data Analytics
+
+* Machine learning solutions
+* Data analysis for business decisions
+
+### 5. Cybersecurity
+
+* Data protection
+* Risk management
+
+### 6. Business Process Services (BPO)
+
+* Customer support
+* Back-office operations
+
+---
+
+# 🎯 Short Interview Answer
+
+👉
+“TCS is led by CEO K. Krithivasan and is part of the Tata Group under Chairman N. Chandrasekaran. It partners with major companies like AWS, Microsoft, Google Cloud, SAP, and Oracle to deliver advanced solutions. TCS provides services such as software development, cloud computing, consulting, AI and data analytics, cybersecurity, and business process outsourcing.”
+
+---
+
+If you want, I can also prepare:
+
+* 🔥 “Why should we hire you in TCS?”
+* 💡 Technical + HR questions **TCS asks freshers** (very important)

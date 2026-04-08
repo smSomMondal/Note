@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "B21SumTriplet",
+            "request": "launch",
+            "mainClass": "Importent.B21SumTriplet",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "B19validTriangls",
+            "request": "launch",
+            "mainClass": "Importent.B19validTriangls",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "B18VaalidSplit",
+            "request": "launch",
+            "mainClass": "Importent.B18VaalidSplit",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "B17GashStationProblem",
+            "request": "launch",
+            "mainClass": "Importent.B17GashStationProblem",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p03StrMatchingKMP",
+            "request": "launch",
+            "mainClass": "String.p03StrMatchingKMP",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "togalBit",
+            "request": "launch",
+            "mainClass": "tcs.togalBit",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "allMethods",
+            "request": "launch",
+            "mainClass": "allMethods",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p05MaxAreaOfHistogram",
+            "request": "launch",
+            "mainClass": "Stack.p05MaxAreaOfHistogram",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p01HeapUsingQueue",
+            "request": "launch",
+            "mainClass": "Heap.p01HeapUsingQueue",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p02SumKsubArrCount",
+            "request": "launch",
+            "mainClass": "Sub_Array.p02SumKsubArrCount",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "B03NextParmutation",
+            "request": "launch",
+            "mainClass": "Importent.B03NextParmutation",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "B02stockBuySell",
+            "request": "launch",
+            "mainClass": "Importent.B02stockBuySell",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "findIn2DsortedArr",
+            "request": "launch",
+            "mainClass": "Importent.findIn2DsortedArr",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p09ProdLessthenKNoSubArry",
+            "request": "launch",
+            "mainClass": "Sliding_Window.p09ProdLessthenKNoSubArry",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p04CyclickSort",
+            "request": "launch",
+            "mainClass": "Sorting.p04CyclickSort",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "TakeInput",
+            "request": "launch",
+            "mainClass": "Importent.TakeInput",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p08KnightToTergate",
+            "request": "launch",
+            "mainClass": "Graph.p08KnightToTergate",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p04ContSubArrLessSumK",
+            "request": "launch",
+            "mainClass": "Sub_Array.p04ContSubArrLessSumK",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p51MatrixChainRecur",
+            "request": "launch",
+            "mainClass": "Dynamic_Programing.p51MatrixChainRecur",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p21LongComSubsecRecur",
+            "request": "launch",
+            "mainClass": "p21LongComSubsecRecur",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p51MatrixChainRecur",
+            "request": "launch",
+            "mainClass": "p51MatrixChainRecur",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "permutation",
+            "request": "launch",
+            "mainClass": "Importent.permutation",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p21LongComSubsecRecur",
+            "request": "launch",
+            "mainClass": "Dynamic_Programing.p21LongComSubsecRecur",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "p05KnoClosestEle",
+            "request": "launch",
+            "mainClass": "Heap.p05KnoClosestEle",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "gfg",
+            "request": "launch",
+            "mainClass": "gfg",
+            "projectName": "you know_f3ce34fa"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

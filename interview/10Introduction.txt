@@ -1,0 +1,11 @@
+Good morning/afternoon sir/madam,
+
+My name is Som Mondal, and I am currently pursuing my B.Tech in Information Technology from Techno Main Salt Lake, Kolkata, with a CGPA of 8.05.
+
+I have a strong foundation in programming languages like Java, C, and SQL, and I am particularly interested in software development and problem-solving. I have worked on a full-stack E-commerce project using React, Express, and MongoDB, where I implemented features like user authentication, product management, and order processing. I have also developed a Library Management System using Java and JDBC, which strengthened my understanding of database connectivity and object-oriented programming.
+
+I regularly practice coding on GeeksforGeeks to improve my problem-solving and logical thinking skills. Along with technical skills, I possess strong teamwork, communication, and time management abilities. I was also selected for the finals of the SBH Hackathon, which helped me gain practical exposure to collaborative development.
+
+I am particularly interested in starting my career with Tata Consultancy Services because of its strong learning environment, global exposure, and focus on innovation. As a fresher, I am eager to learn, adapt quickly, and contribute effectively to the organization.
+
+Thank you.

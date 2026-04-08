@@ -1,0 +1,48 @@
+Here’s a **strong, TCS-ready answer** for *“What are your strengths & weaknesses?”* — tailored to your profile 👇
+
+---
+
+## ✅ Strengths (What you should say)
+
+My key strengths are problem-solving, adaptability, and teamwork.
+
+I have strong problem-solving skills, which I continuously improve by practicing coding on platforms like GeeksforGeeks. This helps me think logically and write efficient solutions.
+
+I am also a quick learner and adaptable to new technologies. For example, while working on my projects like the E-commerce application and Library Management System, I learned and applied new tools and concepts effectively.
+
+Additionally, I am a good team player with strong communication skills. During the SBH Hackathon, I collaborated with my team under time pressure, which helped me understand the importance of coordination and clear communication.
+
+---
+
+## ⚠️ Weaknesses (Safe + Smart Answer)
+
+One of my weaknesses is that I sometimes spend extra time perfecting my work to ensure high quality. However, I am actively working on improving my time management by setting clear priorities and deadlines.
+
+Another area I am improving is gaining deeper expertise in advanced data structures and algorithms. I am consistently practicing and learning to strengthen this area.
+
+---
+
+## 🎯 How to Answer in Interview (Important Tips)
+
+* Always keep **strengths relevant to job**
+* Never say dangerous weaknesses like:
+
+  * ❌ “I am lazy”
+  * ❌ “I don’t like teamwork”
+* Show **improvement mindset** for weaknesses ✔️
+
+---
+
+## 🔥 Short Version (30 sec answer)
+
+👉
+“My strengths are problem-solving, quick learning, and teamwork. I regularly practice coding and have built projects like an e-commerce system and a library management system.
+
+One weakness is that I sometimes focus too much on perfection, but I am improving my time management. I am also working on strengthening my DSA skills.”
+
+---
+
+If you want, I can also prepare:
+
+* 💬 “Tell me about yourself” (HR favorite)
+* 🎯 Full **TCS interview roadmap to crack it easily** 🚀
