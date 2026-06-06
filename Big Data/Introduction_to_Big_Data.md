@@ -58,7 +58,7 @@ Data scientists and big data engineers with expertise in Hadoop, Spark, machine 
               | (Insights)       |
               +------------------+
 ```
-![](https://1.bp.blogspot.com/-Z2tSUVY96xM/WlkJXyB_XDI/AAAAAAAADvE/ODS7eB0D5ZYuPWB2lTSxuoZ1msCnQwY0wCLcBGAs/s1600/7VBigData.JPG)
+![Hi](https://1.bp.blogspot.com/-Z2tSUVY96xM/WlkJXyB_XDI/AAAAAAAADvE/ODS7eB0D5ZYuPWB2lTSxuoZ1msCnQwY0wCLcBGAs/s1600/7VBigData.JPG)
 ---
 
 ## Question 1b: Nature of Data (6M)
