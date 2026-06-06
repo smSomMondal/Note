@@ -127,6 +127,12 @@ ps -ef
 ps -aux
 ```
 
+### systemctl
+
+```bash
+sudo systemctl status docker
+```
+
 #### Meaning of Options
 
 | Option | Meaning                                                                |
