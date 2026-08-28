@@ -30,8 +30,8 @@ public class p06SumOfMinOfEachSubArr {
         
         Stack<Integer> st = new Stack<>();
         
-        for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && arr[i]<=arr[st.peek()]){
+        for( int i=n-1;i>=0;i-- ){
+            while( !st.isEmpty() && arr[i]<=arr[st.peek()] ){
                 st.pop();
             }
             ri[i] = st.isEmpty() ? n-i : st.peek()-i;
@@ -40,7 +40,7 @@ public class p06SumOfMinOfEachSubArr {
         
         st.clear();
         
-        for(int i=0;i<n;i++){
+        for( int i=0;i<n;i++ ){
             while(!st.isEmpty() && arr[i]<arr[st.peek()]){
                 st.pop();
             }
@@ -48,7 +48,7 @@ public class p06SumOfMinOfEachSubArr {
             st.push(i);
         }
         
-        for(int i=0;i<n;i++){
+        for( int i=0;i<n;i++ ){
             sum += arr[i]*le[i]*ri[i];
         }
         

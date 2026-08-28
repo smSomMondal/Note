@@ -15,7 +15,7 @@ public class p04ContSubArrLessSumK {
                 sum-=arr[i];
                 i++;
             }
-            count+=j-i+1;
+            count += j-i+1;
             j++;
         }
 

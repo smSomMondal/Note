@@ -22,7 +22,7 @@ public class p06LongestSubStrOfUnicChar {
                 }
                 i++;
             }
-            count1+=j-i+1; // all sub array size <= k
+            count1 += j-i+1; // all sub array size <= k
         }
         // System.out.println(count+" "+count1);
         System.out.println(max);

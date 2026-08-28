@@ -12,7 +12,7 @@ public class p05ContSubArrExactSumK {
                 sum-=arr[i];
                 i++;
             }
-            count+=j-i+1;
+            count += j-i+1;
             j++;
         }
         return count;

@@ -7,8 +7,10 @@ public class p01NearestGraterToRight {
     public static void main(String[] args) {
         System.out.println("NearestGraterToRight");
 
-        int[] arr = { 5, 3, 2, 4, 7, 3, 2, 1, 9 };
+        int[] arr = { 5, 3, 2, 4, 7, 3, 2, 4, 3 };
 
+        // 5 3 2 4  7 3 2  4  3 
+        // 7 4 4 7 -1 4 4 -1 -1 
         int[] ans = new int[arr.length];
 
         Stack<Integer> st = new Stack<>();

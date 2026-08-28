@@ -6,11 +6,11 @@ import java.util.Deque;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class p04MaxEleSubArr {
+public class p04MaxEleSubArr { //https://www.geeksforgeeks.org/dsa/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/
     public static void main(String[] args) {
-        int[] arr = { 45, 8, 12, 7 };// [3, 3, 4, 5, 5, 5, 6]
+        // int[] arr = { 45, 8, 12, 7 };
         int k = 3;
-        // int[] arr = { 1, 2, 3, 1, 4, 5, 2, 3, 6 };// [3, 3, 4, 5, 5, 5, 6]
+        int[] arr = { 1, 2, 3, 1, 4, 5, 2, 3, 6 };// [3, 3, 4, 5, 5, 5, 6]
         // int k = 3;
         int i = 0, j = 0;
         // int max=0,smax=0;
@@ -59,3 +59,17 @@ public class p04MaxEleSubArr {
         System.out.println(li);
     }
 }
+/*
+1, 2, 3, 1, 4, 5, 2, 3, 6
+
+1
+2
+3       -> 3
+3 1     -> 3
+4       -> 4
+5       -> 5
+5 2     -> 5
+5 2 3   -> 5
+6       -> 6
+
+*/
